@@ -1,4 +1,5 @@
-//Time complexity is n+m.
+//Time complexity is constant 
+//Space complexity is o(n+m).
 //n=Number of users.
 //m=number of connections.
 import java.util.*;
